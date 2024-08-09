@@ -1,6 +1,3 @@
-Here is the updated README file content for the expense tracker application built with React, keeping only the instructions and descriptions:
-
----
 
 # Expense Tracker
 
@@ -91,3 +88,6 @@ src/
 ## CSS for the application
 
 The CSS styles the layout of the application, including the container, balance display, buttons, and transaction lists. Key styles include:
+=======
+# expanse-tracker
+>>>>>>> 23d4137f280c473b86d927f7f757a654d4490aa1
